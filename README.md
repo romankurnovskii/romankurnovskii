@@ -27,7 +27,7 @@ Java | JS/TS | Python | POSTGRESQL
 - 👯 I'm looking to collaborate on ............. open =)
 - 🤔 Competitive Programmer
 - 💬 Ask me about anything, I'll be happy to help.
-- ⚡ From Israel
+- ⚡ born in Russia living in Israel, collaborate trilingual
 
 
 ###
