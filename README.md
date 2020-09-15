@@ -22,7 +22,7 @@ Java | JS/TS | Python | POSTGRESQL
 
 ## Hello World 🙏
 
-- 🔭 Primary coding language: JS/Python.
+- 🔭 Primary coding languages: 🔼JS && 🔽Python
 - 🌱 I’m currently learning ML
 - 👯 I'm looking to collaborate on ............. open =)
 - 🤔 Competitive Programmer
