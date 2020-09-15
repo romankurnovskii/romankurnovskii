@@ -24,7 +24,7 @@ Java | JS/TS | Python | POSTGRESQL
 
 - 🔭 Primary coding languages: 🔼JS && 🔽Python
 - 🌱 I’m currently learning ML
-- 👯 I'm looking to collaborate on ............. open =)
+- 👯 Open to collaboration
 - 🤔 Competitive Programmer
 - 💬 Ask me about anything, I'll be happy to help.
 - ⚡ born in Russia living in Israel, collaborate trilingual
