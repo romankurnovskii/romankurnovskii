@@ -26,7 +26,7 @@ Java | JS/TS | Python | POSTGRESQL
 - 🌱 I’m currently learning ML
 - 👯 Open to collaboration
 - 🤔 Competitive Programmer
-- 💬 Ask me about anything, I'll be happy to help.
+- 💬 Ask me about anything, I'll be happy to help
 - ⚡ born in Russia living in Israel, collaborate trilingual
 
 
