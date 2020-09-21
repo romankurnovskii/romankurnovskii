@@ -15,20 +15,18 @@ Here are some ideas to get you started:
 -->
 
 # Roman Kurnovskii
-Java | JS/TS | Python | POSTGRESQL
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-kurnovskii/)](https://www.linkedin.com/in/roman-kurnovskii/) 
+[![](https://www.codewars.com/users/Roman%20Kurnovskii/badges/small)](https://www.codewars.com/users/Roman%20Kurnovskii)
 ---
 
-## Hello World 🙏
+## Hello World
 
 - 🔭 Primary coding languages: 🔼JS && 🔽Python
 - 🌱 I’m currently learning ML
 - 👯 Open to collaboration
 - 🤔 Competitive Programmer
 - 💬 Ask me about anything, I'll be happy to help
-- ⚡ born in Russia living in Israel, collaborate trilingual
-
 
 ###
  ![Visitor Count](https://profile-counter.glitch.me/{romankurnovskii}/count.svg)
