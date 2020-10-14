@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I'll be happy to help
 
 ###
- ![Visitor Count](https://profile-counter.glitch.me/{romankurnovskii}/count.svg)
