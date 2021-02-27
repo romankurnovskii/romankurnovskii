@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 ## Hello World
 
-- 🔭 Primary coding languages: 🔼JS && 🔽Java
-- 🌱 I’m currently learning ML
 - 👯 Open to collaboration
 - 🤔 Competitive Programmer
 - 💬 Ask me about anything, I'll be happy to help
