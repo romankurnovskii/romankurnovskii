@@ -12,18 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![](https://www.codewars.com/users/Roman%20Kurnovskii/badges/small)](https://www.codewars.com/users/Roman%20Kurnovskii)
 -->
 
 # Roman Kurnovskii
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-kurnovskii/)](https://www.linkedin.com/in/roman-kurnovskii/) 
-[![](https://www.codewars.com/users/Roman%20Kurnovskii/badges/small)](https://www.codewars.com/users/Roman%20Kurnovskii)
----
 
-## Hello World
-
-- 👯 Open to collaboration
-- 🤔 Competitive Programmer
-- 💬 Ask me about anything, I'll be happy to help
-
-###
